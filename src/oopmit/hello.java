@@ -5,7 +5,6 @@ public class hello {
         System.out.println ("Hello,my name is Rachan ");
         System.out.println("Major: information system");
         System.out.println("Faculty : Manament Technology");
-        System.out.println("University : RMUTSV");
 
     }
 }
